@@ -66,6 +66,7 @@ This repository provides a streamlined AI terminology guide. It lists key terms 
 - **Prompt Versioning** <sup>[3/5]</sup> | `Version control, Iteration tracking` - Managing different iterations of prompts
 - **Role-Playing** <sup>[2/5]</sup> | `Persona assignment, Character prompting, Role prompting` - Instructing LLM to assume specific persona or role for more context-specific, relevant responses
 - **Identity Definition** <sup>[2/5]</sup> | `Behavior specification, Purpose definition` - Establishing LLM's purpose, communication style, and goals
+- **Audience Calibration** <sup>[2/5]</sup> | `Audience Persona Pattern, Audience Persona` - Tailoring the language and detail of output to audience's knowledge level 
 - **Prompt Patterns** <sup>[3/5]</sup> | `Reusable templates, Prompt recipes` - Cataloged, reusable prompt structures for specific tasks
 - **Constraint Specification** <sup>[2/5]</sup> | `Boundary definition, Limitation setting` - Explicitly defining limits and requirements for outputs
 - **Pseudo-Code Prompting** <sup>[3/5]</sup> | `Code-style instructions, Algorithmic prompting, Structured logic prompting` - Prompting using pseudo-code format with control flow syntax, providing structural clues through code comments and docstrings
